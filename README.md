@@ -11,7 +11,7 @@
 
 
 - 👋 Hi, I’m @Sourav H
-- 👀 I’m interested in C,C++,Java,React, AI &Machine Learning
+- 👀 I’m interested in Prompt Engineering and AI/Machine Learning
 - 🌱 I’m currently learning C,Java,HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
