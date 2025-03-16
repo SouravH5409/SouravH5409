@@ -32,3 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravh5409&show_icons=true&locale=en" alt="souravh5409" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravh5409&" alt="souravh5409" /></p>
+
+
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@SouravH5409)
