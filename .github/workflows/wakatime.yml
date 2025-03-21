@@ -1,0 +1,25 @@
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    - cron: '*/20 * * * *' # Runs every 20 minutes
+  workflow_dispatch: # Allows manual runs
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    environment: production # Use environment-specific secrets
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Mask API Key for extra security
+      - name: Mask WakaTime API Key
+        run: echo "::add-mask::${{ secrets.WAKATIME_API_KEY }}"
+
+      - name: Update WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_MESSAGE: "Updated WakaTime stats automatically"
