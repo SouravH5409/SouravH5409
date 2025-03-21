@@ -34,9 +34,79 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravh5409&" alt="souravh5409" /></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20mins-blue)
 
-### 📊 Weekly Stats
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SouravH5409&layout=compact)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 36 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                48 commits          ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+🌆 Daytime                53 commits          ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+🌃 Evening                44 commits          ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+🌙 Night                  50 commits          ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Tuesday                  54 commits          ███████░░░░░░░░░░░░░░░░░░   27.69 % 
+Wednesday                37 commits          █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Thursday                 54 commits          ███████░░░░░░░░░░░░░░░░░░   27.69 % 
+Friday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Saturday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Sunday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   9 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  9 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Certificates             9 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  9 mins              █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in C** 
+
+```text
+C                        5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
+Python                   4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Ruby                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/SouravH5409/SouravH5409/main/assets/bar_graph.png)
+
+
+ Last Updated on 21/03/2025 10:57:59 UTC
 <!--END_SECTION:waka-->
 
 
