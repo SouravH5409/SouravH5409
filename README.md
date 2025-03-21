@@ -34,7 +34,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravh5409&" alt="souravh5409" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-104-blue)
 
@@ -42,7 +42,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 36 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,7 +108,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SouravH5409/SouravH5409/main/assets/bar_graph.png)
 
 
- Last Updated on 21/03/2025 20:13:34 UTC
+ Last Updated on 21/03/2025 20:30:04 UTC
 <!--END_SECTION:waka-->
 
 
