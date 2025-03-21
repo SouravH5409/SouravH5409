@@ -34,7 +34,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravh5409&" alt="souravh5409" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
@@ -106,7 +106,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SouravH5409/SouravH5409/main/assets/bar_graph.png)
 
 
- Last Updated on 21/03/2025 10:57:59 UTC
+ Last Updated on 21/03/2025 11:11:14 UTC
 <!--END_SECTION:waka-->
 
 
