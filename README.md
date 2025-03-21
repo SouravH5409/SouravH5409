@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-76-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-93-blue)
 
 **🐱 My GitHub Data** 
 
@@ -106,7 +106,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SouravH5409/SouravH5409/main/assets/bar_graph.png)
 
 
- Last Updated on 21/03/2025 14:33:51 UTC
+ Last Updated on 21/03/2025 14:45:17 UTC
 <!--END_SECTION:waka-->
 
 
