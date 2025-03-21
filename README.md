@@ -44,7 +44,7 @@
  > 
 > 🏆 36 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
+> 💻 open to work
  > 
 > 📜 11 Public Repositories 
  > 
@@ -98,12 +98,6 @@ Java                     2 repos             ███░░░░░░░░�
 CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 Ruby                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/SouravH5409/SouravH5409/main/assets/bar_graph.png)
 
 
  Last Updated on 21/03/2025 16:53:34 UTC
