@@ -34,7 +34,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravh5409&" alt="souravh5409" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-107-blue)
 
@@ -77,18 +77,18 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 42 mins       █████████████████████████   99.74 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Python                   3 hrs 52 mins       █████████████████████████   99.82 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Certificates             1 hr 26 mins        █████████████░░░░░░░░░░░░   52.92 % 
-Turtle                   1 hr 16 mins        ████████████░░░░░░░░░░░░░   47.08 % 
+Turtle                   2 hrs 26 mins       ████████████████░░░░░░░░░   62.83 % 
+Certificates             1 hr 26 mins        █████████░░░░░░░░░░░░░░░░   37.17 % 
 
 💻 Operating System: 
-Windows                  2 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +108,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SouravH5409/SouravH5409/main/assets/bar_graph.png)
 
 
- Last Updated on 22/03/2025 18:36:00 UTC
+ Last Updated on 22/03/2025 18:46:24 UTC
 <!--END_SECTION:waka-->
 
 
