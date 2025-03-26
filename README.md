@@ -107,13 +107,6 @@ CSS                      1 repo              ██░░░░░░░░░�
 Ruby                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/SouravH5409/SouravH5409/main/assets/bar_graph.png)
-
-
  Last Updated on 26/03/2025 12:10:16 UTC
 <!--END_SECTION:waka-->
 
