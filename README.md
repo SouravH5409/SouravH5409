@@ -39,11 +39,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-207-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-191-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 68 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,20 +80,16 @@ Sunday                   43 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 14 mins             ██████████████████░░░░░░░   70.27 % 
-C                        5 mins              ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+C                        5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SouravH5409              14 mins             ██████████████████░░░░░░░   71.70 % 
-Networking               5 mins              ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+Networking               5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +109,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SouravH5409/SouravH5409/main/assets/bar_graph.png)
 
 
- Last Updated on 30/03/2025 01:55:01 UTC
+ Last Updated on 31/03/2025 01:53:40 UTC
 <!--END_SECTION:waka-->
 
 
