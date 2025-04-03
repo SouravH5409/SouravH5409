@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-193-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-194-blue)
 
 **🐱 My GitHub Data** 
 
@@ -80,16 +80,16 @@ Sunday                   43 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        5 mins              █████████████████████████   100.00 % 
+C                        0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Networking               5 mins              █████████████████████████   100.00 % 
+Networking               0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +109,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SouravH5409/SouravH5409/main/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2025 01:49:32 UTC
+ Last Updated on 03/04/2025 01:48:05 UTC
 <!--END_SECTION:waka-->
 
 
