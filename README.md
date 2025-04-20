@@ -39,11 +39,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 102 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -116,7 +118,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SouravH5409/SouravH5409/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2025 01:45:57 UTC
+ Last Updated on 20/04/2025 01:56:46 UTC
 <!--END_SECTION:waka-->
 
 
