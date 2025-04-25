@@ -45,8 +45,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 102 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -117,7 +115,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SouravH5409/SouravH5409/main/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2025 01:52:11 UTC
+ Last Updated on 25/04/2025 01:52:45 UTC
 <!--END_SECTION:waka-->
 
 
