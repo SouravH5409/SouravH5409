@@ -45,6 +45,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 102 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -78,24 +80,16 @@ Sunday                   44 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-XML                      48 mins             ███████████████████░░░░░░   74.71 % 
-Python                   9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Java                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           55 mins             █████████████████████░░░░   85.21 % 
-VS Code                  9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Todo                     50 mins             ███████████████████░░░░░░   77.74 % 
-Python_programs          9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-TeamFlow                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -115,7 +109,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SouravH5409/SouravH5409/main/assets/bar_graph.png)
 
 
- Last Updated on 25/04/2025 01:52:45 UTC
+ Last Updated on 26/04/2025 01:48:33 UTC
 <!--END_SECTION:waka-->
 
 
