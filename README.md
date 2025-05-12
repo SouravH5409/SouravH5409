@@ -45,6 +45,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 102 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -78,16 +80,17 @@ Sunday                   44 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 mins              ██████████████████░░░░░░░   73.88 % 
+Text                     1 min               ███████░░░░░░░░░░░░░░░░░░   26.12 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Turtle                   4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +110,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SouravH5409/SouravH5409/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2025 02:00:40 UTC
+ Last Updated on 12/05/2025 01:58:55 UTC
 <!--END_SECTION:waka-->
 
 
