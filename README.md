@@ -37,13 +37,15 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravh5409&" alt="GitHub Streak" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 102 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,18 +80,18 @@ Sunday                   44 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs 20 mins       █████████████████████████   98.39 % 
-CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-C                        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Python                   38 mins             ███████████████████████░░   90.11 % 
+CSV                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+C                        2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Turtle                   4 hrs 24 mins       █████████████████████████   100.00 % 
+Turtle                   43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +111,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SouravH5409/SouravH5409/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2025 02:01:08 UTC
+ Last Updated on 20/05/2025 01:56:58 UTC
 <!--END_SECTION:waka-->
 
 
