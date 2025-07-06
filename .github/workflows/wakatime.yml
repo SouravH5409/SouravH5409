@@ -2,7 +2,7 @@ name: Update WakaTime Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
+    - cron: '0 0 * * 0' # Runs every sunday
   workflow_dispatch:
 
 jobs:
@@ -16,5 +16,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
           COMMIT_MESSAGE: "Updated WakaTime stats automatically"
-          SHOW_LINES_OF_CODE: "false"
+          SHOW_LINES_OF_CODE: false
+          SHOW_LOC_CHART: false
           
