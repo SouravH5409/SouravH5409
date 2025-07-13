@@ -37,9 +37,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravh5409&" alt="GitHub Streak" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2050%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 **🐱 My GitHub Data** 
 
@@ -80,16 +78,25 @@ Sunday                   45 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 26 mins        ███████████████░░░░░░░░░░   60.11 % 
+Java                     42 mins             ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+XML                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 27 mins        ███████████████░░░░░░░░░░   61.09 % 
+Android Studio           55 mins             ██████████░░░░░░░░░░░░░░░   38.91 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+TeamFlow                 51 mins             █████████░░░░░░░░░░░░░░░░   36.04 % 
+DSA                      43 mins             ████████░░░░░░░░░░░░░░░░░   30.65 % 
+lang                     43 mins             ████████░░░░░░░░░░░░░░░░░   30.44 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Todo                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -105,7 +112,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/07/2025 13:36:24 UTC
+ Last Updated on 13/07/2025 01:07:42 UTC
 <!--END_SECTION:waka-->
 
 
