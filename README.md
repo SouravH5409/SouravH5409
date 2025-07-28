@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Sourav H</h1>
 <h3 align="center">Android Developer | ML Enthusiast | </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravh5409&label=Profile%20views&color=0e75b6&style=flat" alt="souravh5409" /> </p>
 
