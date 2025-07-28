@@ -4,9 +4,6 @@
 <h3 align="center">Android Developer | ML Enthusiast | </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravh5409&label=Profile%20views&color=0e75b6&style=flat" alt="souravh5409" /> </p>
-
-<h3 align="center">📡 Discord</h3>
-
 <p align="center">
   <a href="https://discord.com/users/880505008381108284">
     <picture>
