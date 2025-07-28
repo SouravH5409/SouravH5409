@@ -19,7 +19,6 @@
 <a href="https://www.linkedin.com/in/sourav-h-869b3125b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sourav.h.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 <a href="https://www.instagram.com/lll_s_o_u_r_a_v_lll/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a  href="https://x.com/SouravH5409?t=q2-kf_UW68Wvm0PLpOIWEw&s=09"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/X.png"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
