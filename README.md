@@ -6,13 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravh5409&label=Profile%20views&color=0e75b6&style=flat" alt="souravh5409" /> </p>
 
-- 🌱 I’m currently learning **Android Dev using JAVA, Python for ML**
+<h3 align="center">📡 Discord</h3>
 
-- 💬 Ask me about **Android , C ,Python**
+<p align="center">
+  <a href="https://discord.com/users/880505008381108284">
+    <picture>
+      <source alt="discord" media="(prefers-color-scheme: dark)" srcset="https://discord.c99.nl/widget/theme-4/880505008381108284.png" >
+      <img alt="discord" src="https://discord.c99.nl/widget/theme-5/880505008381108284.png" />
+    </picture>
+  </a>
+</p>
 
-- 📫 How to reach me **[souravh5409@gmail.com](mailto:souravh5409@gmail.com)**
-
-- ⚡ Fun fact **I like to think I'm funny!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
