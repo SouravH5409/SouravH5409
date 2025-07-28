@@ -1,7 +1,7 @@
 ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Sourav H</h1>
-<h3 align="center">Android Developer | AI & ML Enthusiast </h3>
+<h3 align="center">Android Developer | ML Enthusiast | </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravh5409&label=Profile%20views&color=0e75b6&style=flat" alt="souravh5409" /> </p>
@@ -12,6 +12,7 @@
 
 - 📫 How to reach me **[souravh5409@gmail.com](mailto:souravh5409@gmail.com)**
 
+- ⚡ Fun fact **I like to think I'm funny!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,41 +33,31 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravh5409&" alt="GitHub Streak" /></p>
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SouravH5409&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SouravH5409&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SouravH5409&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SouravH5409&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SouravH5409&theme=tokyonight&utcOffset=8)
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 ![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 104 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
 ```text
-🌞 Morning                49 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-🌆 Daytime                82 commits          ███████░░░░░░░░░░░░░░░░░░   28.18 % 
-🌃 Evening                77 commits          ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-🌙 Night                  83 commits          ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+🌞 Morning                49 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+🌆 Daytime                82 commits          ███████░░░░░░░░░░░░░░░░░░   28.28 % 
+🌃 Evening                77 commits          ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+🌙 Night                  82 commits          ███████░░░░░░░░░░░░░░░░░░   28.28 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Tuesday                  65 commits          ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-Wednesday                41 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Thursday                 69 commits          ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-Friday                   41 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Saturday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Sunday                   45 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Monday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Tuesday                  64 commits          ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+Wednesday                41 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Thursday                 69 commits          ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+Friday                   41 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Saturday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Sunday                   45 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
 ```
 
 
@@ -76,25 +67,25 @@ Sunday                   45 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-XML                      4 hrs 28 mins       ███████████████████░░░░░░   77.49 % 
-Kotlin                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-C                        19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-TOML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Java                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+XML                      4 hrs 28 mins       █████████████████░░░░░░░░   66.94 % 
+C                        56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Kotlin                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+TOML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 🔥 Editors: 
-Android Studio           5 hrs 26 mins       ████████████████████████░   94.26 % 
-VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Android Studio           5 hrs 26 mins       ████████████████████░░░░░   81.43 % 
+VS Code                  1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
 
 🐱‍💻 Projects: 
-HR_Employee              2 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   39.41 % 
-ManagerApp               2 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   38.61 % 
-TeamFlow                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-CD LAB                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Unknown Project          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+HR_Employee              2 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.04 % 
+ManagerApp               2 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   33.35 % 
+CD LAB                   1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+TeamFlow                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Unknown Project          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 💻 Operating System: 
-Windows                  5 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -110,9 +101,5 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2025 19:19:36 UTC
+ Last Updated on 27/07/2025 01:09:14 UTC
 <!--END_SECTION:waka-->
-
-
-
-
