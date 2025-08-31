@@ -38,6 +38,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SouravH5409&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SouravH5409&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SouravH5409&theme=tokyonight&utcOffset=8)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -65,24 +67,16 @@ Sunday                   63 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Bash                     35 mins             ████████░░░░░░░░░░░░░░░░░   33.15 % 
-Python                   32 mins             ███████░░░░░░░░░░░░░░░░░░   29.77 % 
-Markdown                 27 mins             ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CD LAB                   1 hr 4 mins         ███████████████░░░░░░░░░░   59.45 % 
-Seelen-UI                19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-local-ai-packaged        16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-SmartSkim                7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-ottomator-agents         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -98,5 +92,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2025 01:02:42 UTC
+ Last Updated on 31/08/2025 00:59:06 UTC
 <!--END_SECTION:waka-->
