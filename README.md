@@ -38,49 +38,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SouravH5409&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SouravH5409&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SouravH5409&theme=tokyonight&utcOffset=8)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2013%20mins-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-🌆 Daytime                94 commits          ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-🌃 Evening                107 commits         ███████░░░░░░░░░░░░░░░░░░   28.16 % 
-🌙 Night                  130 commits         █████████░░░░░░░░░░░░░░░░   34.21 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Tuesday                  84 commits          ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-Wednesday                60 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Thursday                 74 commits          █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Friday                   54 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Saturday                 36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Sunday                   64 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   2 hrs 16 mins       ████████████████████████░   95.04 % 
-CSV                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 23 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Marketing_Intelligence Da2 hrs 23 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -94,5 +51,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2025 00:57:42 UTC
+ Last Updated on 21/09/2025 00:59:34 UTC
 <!--END_SECTION:waka-->
