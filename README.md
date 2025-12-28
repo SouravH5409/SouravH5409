@@ -38,6 +38,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SouravH5409&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SouravH5409&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SouravH5409&theme=tokyonight&utcOffset=8)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2057%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -65,17 +67,20 @@ Sunday                   79 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        18 mins             █████████████████████░░░░   82.74 % 
-C++                      3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Python                   32 mins             █████████████████████████   99.78 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+VS Code                  32 mins             █████████████████████████   99.78 % 
+Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🐱‍💻 Projects: 
-test                     22 mins             █████████████████████████   100.00 % 
+test                     32 mins             █████████████████████████   99.78 % 
+Todo                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+Windows                  32 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,5 +96,5 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/12/2025 02:25:03 UTC
+ Last Updated on 28/12/2025 02:31:23 UTC
 <!--END_SECTION:waka-->
