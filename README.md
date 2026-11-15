@@ -7,8 +7,9 @@
 <p align="center">
   <a href="https://discord.com/users/880505008381108284">
     <picture>
-      <source alt="discord" media="(prefers-color-scheme: dark)" srcset="https://discord.c99.nl/widget/theme-4/880505008381108284.png" >
-      <img alt="discord" src="https://discord.c99.nl/widget/theme-5/880505008381108284.png" />
+      <source alt="discord" media="(prefers-color-scheme: dark)" srcset="https://discord.c99.nl/widget/theme-1/880505008381108284.png" >
+      <img alt="discord" src="https://discord.c99.nl/widget/theme-1/880505008381108284.png" />
+      
     </picture>
   </a>
 </p>
